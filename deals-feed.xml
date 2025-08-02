@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>🔥 Amazing Deals Feed - Auto Social Posting</title>
+        <title>Amazing Deals Feed - Auto Social Posting</title>
         <description>Latest affiliate deals and discounts - Automatically posted to all social media platforms</description>
         <link>https://behark.github.io</link>
         <language>en-us</language>
-        <lastBuildDate>Sat, 02 Aug 2025 23:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Aug 2025 00:10:00 GMT</lastBuildDate>
         <atom:link href="https://behark.github.io/deals-feed.xml" rel="self" type="application/rss+xml"/>
         
         <item>
-            <title>🔥 Limited Time: Premium Headphones 65% OFF</title>
+            <title>Limited Time: Premium Headphones 65% OFF</title>
             <description><![CDATA[Top-rated wireless headphones with noise cancellation. Perfect sound quality for music, calls, and gaming. Premium materials and long battery life. This deal won't last long!]]></description>
             <link>https://amzn.to/premium-headphones-deal</link>
             <category>Electronics</category>
-            <pubDate>Sat, 02 Aug 2025 23:45:30 GMT</pubDate>
+            <pubDate>Sat, 03 Aug 2025 00:10:00 GMT</pubDate>
             <guid isPermaLink="false">https://amzn.to/premium-headphones-deal-1754171130-0</guid>
         </item>
         
         <item>
-            <title>💰 Flash Sale: Fitness Equipment 55% OFF</title>
+            <title>Flash Sale: Fitness Equipment 55% OFF</title>
             <description><![CDATA[Complete home gym setup at incredible prices! Build strength and stay healthy from home. High-quality equipment with excellent reviews. Perfect for any fitness level.]]></description>
             <link>https://amzn.to/fitness-equipment-sale</link>
-            <category>Health & Fitness</category>
-            <pubDate>Sat, 02 Aug 2025 23:45:30 GMT</pubDate>
+            <category>Health and Fitness</category>
+            <pubDate>Sat, 03 Aug 2025 00:10:00 GMT</pubDate>
             <guid isPermaLink="false">https://amzn.to/fitness-equipment-sale-1754171130-1</guid>
         </item>
         
         <item>
-            <title>🏠 Smart Home Security: Complete System 40% OFF</title>
+            <title>Smart Home Security: Complete System 40% OFF</title>
             <description><![CDATA[Protect your home with advanced security technology. 24/7 monitoring, smartphone alerts, and easy installation. Peace of mind at an unbeatable price.]]></description>
             <link>https://amzn.to/smart-security-system</link>
             <category>Home Security</category>
-            <pubDate>Sat, 02 Aug 2025 23:45:30 GMT</pubDate>
+            <pubDate>Sat, 03 Aug 2025 00:10:00 GMT</pubDate>
             <guid isPermaLink="false">https://amzn.to/smart-security-system-1754171130-2</guid>
         </item>
         
         <item>
-            <title>📱 Tech Bundle: Accessories & Gadgets 50% OFF</title>
+            <title>Tech Bundle: Accessories and Gadgets 50% OFF</title>
             <description><![CDATA[Essential tech accessories for your devices. Chargers, cases, stands, and more. High-quality materials and universal compatibility. Upgrade your tech setup today!]]></description>
             <link>https://amzn.to/tech-accessories-bundle</link>
             <category>Technology</category>
-            <pubDate>Sat, 02 Aug 2025 23:45:30 GMT</pubDate>
+            <pubDate>Sat, 03 Aug 2025 00:10:00 GMT</pubDate>
             <guid isPermaLink="false">https://amzn.to/tech-accessories-bundle-1754171130-3</guid>
         </item>
         
